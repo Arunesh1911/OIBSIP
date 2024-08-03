@@ -197,17 +197,6 @@ body {
     color: #fff;
     font-family: Inter;
 }
-.frame-child {
-    position: absolute;
-    top: 90px;
-    left: 126px;
-    background-color: rgba(217, 217, 217, 0);
-    border: 2px solid #000;
-    box-sizing: border-box;
-    width: 271px;
-    height: 277px;
-    opacity: 100;
-}
 .designer-1-icon {
     position: absolute;
     top: 119px;
@@ -235,34 +224,6 @@ body {
     width: 526px;
     height: 231px;
 }
-.frame-item {
-    position: absolute;
-    top: 155.5px;
-    left: 504.5px;
-    border-right: 1px solid #000;
-    box-sizing: border-box;
-    width: 1px;
-    height: 45px;
-}
-.frame-inner {
-    position: absolute;
-    top: 155.5px;
-    left: 504.5px;
-    border-top: 1px solid #000;
-    box-sizing: border-box;
-    width: 45px;
-    height: 1px;
-}
-.line-div {
-    position: absolute;
-    top: 375.5px;
-    left: 983.48px;
-    border-top: 1px solid #000;
-    box-sizing: border-box;
-    width: 45px;
-    height: 1px;
-}
-
 .rectangle-parent {
     width: 100%;
     position: relative;
@@ -529,9 +490,9 @@ body {
     top: 361px;
     left: 108px;
 }
-.div {
+.div2 {
     position: absolute;
-    top: 419px;
+    top: 456px;
     left: 129px;
 }
 .get-latest-updates {
@@ -542,7 +503,7 @@ body {
 }
 .div1 {
     position: absolute;
-    top: 454px;
+    top: 413px;
     left: 129px;
 }
 .frame-child4 {
